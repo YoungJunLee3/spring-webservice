@@ -14,6 +14,7 @@
  - 언어 Java
  - 스프링부트 2.4.2 및 라이브러리 적용 (handlebars, lombook, generex 추가 )
  - h2 메모리 디비를 이용 DB(REGISTER, KEY) 에 등록가능하게 구현
+ - 데이터 엔티티 생성시에 AUDIT 컬럼 고려 ( 많은 시스템에서 기록일시, 수정일시를 사용함으로 )
 
 1. KEY 정보를 등록하는 API ( /register )
  
