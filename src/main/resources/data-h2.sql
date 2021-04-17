@@ -1,0 +1,2 @@
+insert into register (key, description, type, generator, min_length, created_date, modified_date) values ('policy-number', '보험 증서 번호에 사용할 KEY 값으로 테이블 PK 로 사용', 'number', 'generic', 10,  now(), now());
+insert into register (key, description, type, generator, min_length, created_date, modified_date) values ('claim-number' , '고객센터에서 고객 문의사항이 접수될 때 사용하는 KEY', 'string', null,  0, now(), now());
