@@ -11,7 +11,7 @@
     닭과 달걀의 문제로 당연히 빌드환경을 먼저 만들어야 했지만!!
 
 * 선정 결과
- - 언어 Java있
+ - 언어 Java
  - 스프링부트 2.4.2 및 라이브러리 적용 (handlebars, lombook, generex 추가 )
  - h2 메모리 디비를 이용 DB(REGISTER, KEY) 에 등록가능하게 구현
 
